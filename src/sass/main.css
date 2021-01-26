@@ -1,12 +1,10 @@
+@charset "UTF-8";
 /*
  * Главный файл стилей.
  * Все паршалы подключаются сюда.
  */
-
-// Стили для файла с примером HTML-фрагмента
-// @import './example';
 .gogo {
   color: blue;
   background-color: brown;
-  width: 100px;
 }
+/*# sourceMappingURL=main.css.map */
