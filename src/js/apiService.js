@@ -28,13 +28,13 @@ class ImageApi {
         this.page = 1;
     }
 
-    get query() {
-        return this.searchQuery;
-    }
+    // get query() {
+    //     return this.searchQuery;
+    // }
 
-    set query() {
-        this.searchQuery = newQuery;
-    }
+    // set query() {
+    //     this.searchQuery = newQuery;
+    // }
 }
 
 export { ImageApi };
